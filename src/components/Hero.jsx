@@ -36,13 +36,13 @@ const Hero = ({ data }) => {
               <span>Email Me</span>
             </a> */}
 
-            <a
+            {/*<a
               href="/resume.pdf"
               download="Tamsir_Toure_Resume.pdf"
               className="bg-text hover:bg-text/80 text-white px-6 py-3 rounded-lg transition-colors flex items-center justify-center gap-2"
             >
               <span>Download Resume</span>
-            </a>
+            </a>*/}
           </div>
         </div>
       </div>
