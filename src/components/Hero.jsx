@@ -19,7 +19,7 @@ const Hero = ({ data }) => {
           </p>
           
           {/* Reorganized buttons with grid layout */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-3xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-1 gap-4 max-w-3xl mx-auto">
             <a
               href={data.linkedin}
               target="_blank"
